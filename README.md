@@ -1,2 +1,2 @@
-# teacher
-这是一个学生成绩管理系统
+# teacher-student
+ 教师管理学生成绩
